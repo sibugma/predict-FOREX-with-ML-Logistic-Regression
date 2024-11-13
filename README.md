@@ -1,5 +1,7 @@
 # predict-FOREX-with-ML-Logistic-Regression
 for step1 I've used logistic regression 
+for step2 I added Simple Moving Average , MACD (Moving Average Convergence Divergence) , RSI (Relative Strength Index)
+
 
 # EURUSD Price Prediction with Logistic Regression
 
